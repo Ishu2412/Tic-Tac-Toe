@@ -1,0 +1,26 @@
+/*                  Body             */
+body {
+  background-color: black;
+  text-align: center;
+}
+
+/*                Heading                */
+.upper-heading {
+  color: #E8F9FD;
+  font-family: "Lobster";
+  font-size: 800%;
+  margin: auto;
+  padding-bottom: 5%;
+}
+.lower-heading {
+  font-family: "Lobster";
+  font-size: 200%;
+  color: #E8F9FD;
+  padding: 5% 0 0 1%;
+}
+
+/*              images           */
+.white-img {
+  width: 10%;
+  padding: 1% 1% 1% 1%;
+}
